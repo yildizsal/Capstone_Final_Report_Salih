@@ -84,6 +84,4 @@ The dataset consists of 60,000 experimental records with the following columns:
 ---
 
 ## 👤 Author
-**Name:** Your Name  
-**Email:** your.email@example.com  
-**LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+**Name:** Salih Yildiz 
